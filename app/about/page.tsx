@@ -20,7 +20,7 @@ export default function About() {
             <div className="contact-section">
                 <img src="logo.png" alt="logo" className="contact-section__img" />
                 <h1 className="contact-section__title">Elevate Your Business with Us</h1>
-                <a href="/about" className="contact-section__btn">Get In Touch</a>
+                <a href="/contact" className="contact-section__btn">Get In Touch</a>
             </div>
         </div>
     );
