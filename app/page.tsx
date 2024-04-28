@@ -59,7 +59,7 @@ export default function Home() {
             <p className="why-us__offerings__offer__info">
               We specialize in responsive website design, ensuring your site looks great and functions
               smoothly on all devices. Whether you need a simple brochure site or a full-fledged
-              e-commerce platform, we've got you covered.
+              e-commerce platform, we&apos;ve got you covered.
             </p>
           </div>
           <div className="why-us__offerings__offer">
@@ -67,7 +67,7 @@ export default function Home() {
             <h3 className="why-us__offerings__offer__title">Technical Support</h3>
             <p className="why-us__offerings__offer__info">
               Our team provides responsive technical support to ensure your software and websites run
-              smoothly. From troubleshooting to updates and maintenance, we're here to help whenever
+              smoothly. From troubleshooting to updates and maintenance, we&apos;re here to help whenever
               you need us.
             </p>
           </div>
